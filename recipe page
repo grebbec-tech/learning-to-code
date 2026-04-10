@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Page</title>
+</head>
+<body>
+<h1>Delicious Pancakes</h1>
+<p>These pancakes are fluffy and perfect for a weekend breakfast!</p>
+<h2>Ingredients:</h2>
+<ul>
+    <li>1 cup all-purpose flour</li>
+    <li>2 tablespoons sugar</li>
+    <li>1 tablespoon baking powder</li>
+    <li>1 cup milk</li>
+    <li>1 egg</li>
+    <li>2 tablespoons melted butter</li>
+</ul>
+<h2>Instructions:</h2>
+<ol>
+    <li>In a large bowl, mix the flour, sugar, and baking powder.</li>
+    <li>Pour in 1 cup of milk and stir until the batter is smooth.</li>
+    <li>Heat a non-stick skillet over medium heat, melt the butter in the pan,and pour 1/4 cup of batter for each pancake.</li>
+    <li>Cook until bubbles form on the surface, then flip and cook until golden brown on the other side.</li>
+</ol>
+<img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="recipe aftermath">
+</body>
+</html>
