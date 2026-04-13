@@ -263,7 +263,7 @@
                 <h1>Contact Me</h1>
                 <p>Fast, friendly, and easy to reach. I’m here for collaborations, project opportunities, and quick questions — let’s make something great together.</p>
                 <div class="button-row">
-                    <a class="button primary" href="mailto:your.email@example.com">Email Me</a>
+                    <a class="button primary" href="mailto:graham@rebbec.us">Email Me</a>
                     <a class="button secondary" href="#details">View Details</a>
                 </div>
             </div>
@@ -276,45 +276,37 @@
                     <div class="contact-icon">✉️</div>
                     <div class="contact-text">
                         <strong>Email</strong>
-                        <span>your.email@example.com</span>
+                        <span>graham@rebbec.us</span>
                     </div>
                 </article>
                 <article class="contact-item">
                     <div class="contact-icon">📞</div>
                     <div class="contact-text">
                         <strong>Phone</strong>
-                        <span>+1 (555) 123-4567</span>
+                        <span>+1 (309) 307-2465</span>
                     </div>
                 </article>
                 <article class="contact-item">
                     <div class="contact-icon">📍</div>
                     <div class="contact-text">
                         <strong>Location</strong>
-                        <span>San Francisco, CA</span>
+                        <span>Mocksville, NC</span>
                     </div>
                 </article>
             </div>
 
             <div class="social-list">
-                <a class="social-link" href="https://www.linkedin.com/" target="_blank" rel="noreferrer noopener">
+                <a class="social-link" href="https://www.linkedin.com/in/graham-rebbec-88b65a314/" target="_blank" rel="noreferrer noopener">
                     <span>LinkedIn</span>
-                    <strong>@your-profile</strong>
+                    <strong>@Graham—Rebbec</strong>
                 </a>
-                <a class="social-link" href="https://github.com/" target="_blank" rel="noreferrer noopener">
+                <a class="social-link" href="https://github.com/grebbec-tech" target="_blank" rel="noreferrer noopener">
                     <span>GitHub</span>
-                    <strong>@your-handle</strong>
-                </a>
-                <a class="social-link" href="https://twitter.com/" target="_blank" rel="noreferrer noopener">
-                    <span>Twitter</span>
-                    <strong>@yourhandle</strong>
+                    <strong>@grebbec-tech</strong>
                 </a>
             </div>
 
-            <div class="footer-note">Tip: Replace the placeholders with your real contact details and social links to personalize this landing page.</div>
-
-            <div class="map-panel">
-                <img src="https://images.unsplash.com/photo-1524548165309-06a13a7b8ce5?auto=format&fit=crop&w=1200&q=80" alt="City skyline and office map illustration">
-            </div>
+            <div class="footer-note">Please Reach Out with any questions or opportunites. I look forward to hearing from you!</div>
         </aside>
     </main>
 </body>
